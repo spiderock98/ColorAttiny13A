@@ -24,20 +24,10 @@
 
 ## Gallery
 
+<img src="resource\docs\IV-curves-all-colours.png" title="" alt="" data-align="center">
+
 ## To-Do
 
 - [ ] Test power up time (hopefully upto 7 hours if i calculate correctly 😊)
 
 - [ ] Test charge circuit
-
-
-
-
-
-
-
-
-
-
-
-
