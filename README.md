@@ -38,11 +38,11 @@
 
 ## Gallery
 
-<img src="resource\img\IMG_20210321_201045.jpg" title="" alt="" width="45%" data-align="center">
-<img src="resource\img\IMG_20210321_201058.jpg" title="" alt="" width="45%" data-align="center">
-<img src="resource\img\IMG_20210321_201135.jpg" title="" alt="" width="45%" data-align="center">
-<img src="resource\img\IMG_20210321_201204.jpg" title="" alt="" data-align="center">
-<img src="resource\img\IMG_20210321_201333.jpg" title="" alt="" data-align="center">
+<img src="resource\img\IMG_20210321_201045.jpg" title="" alt="" width="45%">
+<img src="resource\img\IMG_20210321_201058.jpg" title="" alt="" width="45%">
+<img src="resource\img\IMG_20210321_201135.jpg" title="" alt="" width="45%">
+<img src="resource\img\IMG_20210321_201204.jpg" title="" alt="">
+<img src="resource\img\IMG_20210321_201333.jpg" title="" alt="">
 
 ## To-Do
 
