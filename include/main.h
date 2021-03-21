@@ -19,4 +19,10 @@ enum pwm_freq
     DIV_1024 = _BV(CS02) | _BV(CS00)
 };
 
-void RGB_MODE1(uint32_t duration_ms);
+enum PinPWM
+{
+    MATCH_A,
+    MATCH_B
+};
+
+void RGB_MODE1(int32_t duration_ms = -1);
