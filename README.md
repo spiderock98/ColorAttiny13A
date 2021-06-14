@@ -46,7 +46,7 @@
 
 ## To-Do
 
-- [x] Test power up time (hopefully upto 17 hours if i calculate correctly 😊)
+- [x] Test power up time (hopefully upto 17 hours if i estimate correctly 😊)
 
 - [ ] Test charge circuit
 
