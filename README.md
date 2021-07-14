@@ -2,7 +2,7 @@
 
 ## Intro
 
-- Pet project in covid 2021 to light up **[Virgin Mary](https://vi.wikipedia.org/wiki/Maria)** crystal statue
+- Pet project in covid 2021 to light up **[Virgin Mary](https://vi.wikipedia.org/wiki/Maria)** and **[Holy Family](https://vi.wikipedia.org/wiki/Th%C3%A1nh_Gia)** crystal statue
 
 - Arduino Uno as an ISP programmer. Thanks to [Arduino/Attiny13A.ISP.Arduino.Programmer at master · spiderock98/Arduino (github.com)](https://github.com/spiderock98/Arduino/tree/master/Attiny13A.ISP.Arduino.Programmer)
 
